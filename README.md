@@ -141,7 +141,7 @@ rolling_avg.plot(x='order_date', y='total_price')
 plt.show()
 ```
 
-![Rolling Average](reports/images/rolling_average_category_sale.png)
+![Rolling Average](reports/images/rolling_average_category_sales.png)
 
 ---
 
@@ -183,7 +183,7 @@ sales_pct_change.plot()
 plt.show()
 ```
 
-![Category Sales Percentage Change](reports/images/category_sales_percentage_change_overtime.png)
+![Category Sales Percentage Change](reports/images/category_sales_percentage_change_over_time.png)
 
 ---
 
