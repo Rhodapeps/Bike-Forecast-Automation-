@@ -1,0 +1,30 @@
+# Ignore Conda environment and dependencies
+env/
+*.yml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+logs/
+*.log
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore Papermill output notebooks
+output_notebooks/
+
+# Ignore large datasets (optional)
+data/raw/
+data/interim/
