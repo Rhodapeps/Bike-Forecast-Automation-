@@ -77,7 +77,7 @@ fig.invert_yaxis()
 plt.show()
 ```
 
-![Top 5 Bikes](reports/images/top_5_bikes.png)
+![Top 5 Bikes](reports/images/top_5_bikes_series.png)
 
 ---
 
@@ -206,7 +206,7 @@ plt.show()
 A detailed exploratory data analysis (EDA) report is generated using Pandas Profiling.  
 You can view the report by opening the following link in your browser:
 
-[View Pandas Profiling Report](http://127.0.0.1:3000/reports/profile_report.html)
+[View Pandas Profiling Report]([http://](http://127.0.0.1:3000/reports/profile_report.html))
 
 ---
 
