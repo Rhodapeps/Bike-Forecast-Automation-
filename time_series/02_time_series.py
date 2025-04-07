@@ -183,6 +183,7 @@ bike_sales_m_df \
     
 plt.show()
 
+# %%
 bike_sales_cat2_m_wide_df \
     .apply(lambda x: (x - x[0]) / x[0]) \
     .plot()
