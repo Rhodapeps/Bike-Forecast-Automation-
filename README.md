@@ -48,7 +48,7 @@ BIKE FORECAST AUTOMATION
 ├── README.md                       # Documentation
 ├── .gitignore                      # Files ignored by Git
 ├── requirements.txt                # Dependencies
-├── LICENSE                         # License file (optional)
+├── LICENSE                         # License file 
 ```
 
 ### 📄 License
