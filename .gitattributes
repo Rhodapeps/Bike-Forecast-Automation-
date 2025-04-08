@@ -1,2 +1,5 @@
-*.py linguist-language=Python
-report/* linguist-generated=true
+# Prioritize Python files for language detection
+*.py linguist-detectable=true
+
+# Deprioritize HTML files for language detection
+*.html linguist-detectable=false
