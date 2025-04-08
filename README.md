@@ -210,6 +210,7 @@ You can view the report by opening the following link in your browser:
 
 [View Pandas Profiling Report]([http://](http://127.0.0.1:3000/reports/profile_report.html))
 
+
 ---
 
 ## 📂 Project Structure
