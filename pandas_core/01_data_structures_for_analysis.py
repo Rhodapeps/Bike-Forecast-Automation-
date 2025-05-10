@@ -1,5 +1,3 @@
-# DS4B 101-P: PYTHON FOR DATA SCIENCE AUTOMATION ----
-# Module 3 (Pandas Core): Data Structures ----
 # %%
 # IMPORTS ----
 
