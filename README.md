@@ -4,7 +4,7 @@
 
 **Project:** Automated Forecast System for a Bike Manufacturing Company  
 **Purpose:** This system automates forecasting, reporting, and data analysis for senior management.  
-**Technologies:** Python, Pandas, Matplotlib, Plotnine, SQLAlchemy, sktime, Papermill  
+**Tech Stack:** Python, Pandas, Matplotlib, Plotnine, SQLAlchemy, sktime, Papermill  
 
 ---
 
