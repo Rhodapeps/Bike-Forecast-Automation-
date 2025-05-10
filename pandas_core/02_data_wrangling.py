@@ -1,5 +1,4 @@
-# DS4B 101-P: PYTHON FOR DATA SCIENCE AUTOMATION ----
-# Week 2 (Data Wrangling): Data Wrangling ----
+
 # %%
 # IMPORTS
 
